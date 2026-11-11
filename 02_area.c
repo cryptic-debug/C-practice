@@ -6,6 +6,6 @@ int main(){
     scanf("%d", &l);
     printf("\nEnter breadth of rectangle: ");
     scanf("%d", &b);
-printf("\n Area of circe is:%d ",l*b);
+printf("\nArea of rectangle is:%d ",l*b);
 return 0;
 }
